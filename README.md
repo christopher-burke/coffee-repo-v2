@@ -12,6 +12,8 @@ I want to learn and watch more things. I started watching videos with my coffee.
 
 ### Archives
 
-looking for a previous months picks? [check out the archives!](https://github.com/christopher-burke/coffee-repo/tree/master/archives)
+looking for a previous months picks? [check out the archives!](https://github.com/christopher-burke/coffee-repo/tree/coffee-repo/archives/)
 
 ### March 2017
+
+* [Brandon Rhodes - Pandas From The Ground Up - PyCon 2015](https://www.youtube.com/watch?v=5JnMutdy6Fw)
