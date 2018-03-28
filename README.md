@@ -1,15 +1,17 @@
-# breakfast repo
-> a collection of videos, recordings, and podcasts to accompany our morning coffee
+# Coffee Repo #
 
-there are so many cool things to learn and watch and i never seem to have the time for all of them. in an attempt to consume more of these things, i've started watching at least 1 ~20min thing every morning with my coffee.
+* Forked from [breakfast-repo](https://github.com/ashleygwilliams/breakfast-repo)
 
-### have a suggestion?
+> a collection of videos, recordings, and podcasts to accompany our morning coffee.
 
-if you have something you think i would like to or should listen/watch, please [file an issue](https://github.com/ashleygwilliams/breakfast-repo/issues/new) with the link and a small description. thanks!
+I want to learn and watch more things. I started watching videos with my coffee.
 
-looking for a previous months picks? [check out the archives!](https://github.com/ashleygwilliams/breakfast-repo/tree/master/archives) 
+### Suggestion ?
 
-### june 2016
+[file an pull request](https://github.com/christopher-burke/coffee-repo/pulls) with the link.
 
-- [Jeanine Adkisson: Tulip: A Well-Balanced Language (MoonConf 2016)](https://www.youtube.com/watch?v=WWlnRWbOlho&feature=youtu.be&a)
-- [Isaac Schlueter: Non-Violent Communication for Fun, Profit, and Self Defense (Open Source & Feelings 2015)](https://www.youtube.com/watch?v=G5_8u3NA8M8)
+### Archives
+
+looking for a previous months picks? [check out the archives!](https://github.com/christopher-burke/coffee-repo/tree/master/archives)
+
+### March 2017
