@@ -17,5 +17,5 @@ looking for a previous months picks? [check out the archives!](https://github.co
 ### March 2017
 
 * [Brandon Rhodes - Pandas From The Ground Up - PyCon 2015](https://www.youtube.com/watch?v=5JnMutdy6Fw)
-* [Git from the inside out](https://www.youtube.com/watch?v=fCtZWGhQBvo)
-    * [Git from the inside out](https://maryrosecook.com/blog/post/git-from-the-inside-out)
+* [Git from the inside out (Video Version)](https://www.youtube.com/watch?v=fCtZWGhQBvo)
+    * [Git from the inside out (Essay Version)](https://maryrosecook.com/blog/post/git-from-the-inside-out)
