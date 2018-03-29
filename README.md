@@ -19,3 +19,4 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [Brandon Rhodes - Pandas From The Ground Up - PyCon 2015](https://www.youtube.com/watch?v=5JnMutdy6Fw)
 * [Git from the inside out (Video Version)](https://www.youtube.com/watch?v=fCtZWGhQBvo)
     * [Git from the inside out (Essay Version)](https://maryrosecook.com/blog/post/git-from-the-inside-out)
+* [Velocity NY 2013: Richard Cook, "Resilience In Complex Adaptive Systems"](https://www.youtube.com/watch?v=PGLYEDpNu60)
