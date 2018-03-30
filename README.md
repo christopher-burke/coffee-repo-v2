@@ -20,3 +20,4 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [Git from the inside out (Video Version)](https://www.youtube.com/watch?v=fCtZWGhQBvo)
     * [Git from the inside out (Essay Version)](https://maryrosecook.com/blog/post/git-from-the-inside-out)
 * [Velocity NY 2013: Richard Cook, "Resilience In Complex Adaptive Systems"](https://www.youtube.com/watch?v=PGLYEDpNu60)
+* ["Uncle" Bob Martin - "The Future of Programming"](https://www.youtube.com/watch?v=ecIWPzGEbFc)
