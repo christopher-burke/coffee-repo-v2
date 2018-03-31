@@ -21,3 +21,4 @@ looking for a previous months picks? [check out the archives!](https://github.co
     * [Git from the inside out (Essay Version)](https://maryrosecook.com/blog/post/git-from-the-inside-out)
 * [Velocity NY 2013: Richard Cook, "Resilience In Complex Adaptive Systems"](https://www.youtube.com/watch?v=PGLYEDpNu60)
 * ["Uncle" Bob Martin - "The Future of Programming"](https://www.youtube.com/watch?v=ecIWPzGEbFc)
+* [Open Source & Feelings 2015 - Let's Continue to Talk About Pay by Lauren Voswinkel](https://www.youtube.com/watch?v=54XU1WZKWKI)
