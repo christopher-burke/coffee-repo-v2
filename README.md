@@ -14,11 +14,6 @@ I want to learn and watch more things. I started watching videos with my coffee.
 
 looking for a previous months picks? [check out the archives!](https://github.com/christopher-burke/coffee-repo/tree/coffee-repo/archives/)
 
-### March 2017
+### April 2018
 
-* [Brandon Rhodes - Pandas From The Ground Up - PyCon 2015](https://www.youtube.com/watch?v=5JnMutdy6Fw)
-* [Git from the inside out (Video Version)](https://www.youtube.com/watch?v=fCtZWGhQBvo)
-    * [Git from the inside out (Essay Version)](https://maryrosecook.com/blog/post/git-from-the-inside-out)
-* [Velocity NY 2013: Richard Cook, "Resilience In Complex Adaptive Systems"](https://www.youtube.com/watch?v=PGLYEDpNu60)
-* ["Uncle" Bob Martin - "The Future of Programming"](https://www.youtube.com/watch?v=ecIWPzGEbFc)
-* [Open Source & Feelings 2015 - Let's Continue to Talk About Pay by Lauren Voswinkel](https://www.youtube.com/watch?v=54XU1WZKWKI)
+* [10 Tips for Pythonic Code](https://www.youtube.com/watch?v=_O23jIXsshs)
