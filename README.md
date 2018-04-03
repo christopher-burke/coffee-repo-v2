@@ -17,3 +17,5 @@ looking for a previous months picks? [check out the archives!](https://github.co
 ### April 2018
 
 * [10 Tips for Pythonic Code](https://www.youtube.com/watch?v=_O23jIXsshs)
+* [Flávio Juvenal How to make a good library API PyCon 2017](https://www.youtube.com/watch?v=4mkFfce46zE)
+* [Top To Down, Left To Right (aka What Do You Not Know You Do Not Know About Python?)](https://www.youtube.com/watch?v=DlgbPLvBs30)
