@@ -21,3 +21,5 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [Top To Down, Left To Right (aka What Do You Not Know You Do Not Know About Python?)](https://www.youtube.com/watch?v=DlgbPLvBs30)
 * [Thinking for Programmers](https://channel9.msdn.com/Events/Build/2014/3-642)
 * [Losing your Loops Fast Numerical Computing with NumPy](https://www.youtube.com/watch?v=EEUXKG97YRw)
+* ["How to Begin Thinking like a Programmer" by Andy Harris](https://www.youtube.com/watch?v=YWwBhjQN-Qw)
+* ["Sebastian Witowski - Writing faster Python"](https://www.youtube.com/watch?v=YjHsOrOOSuI)
