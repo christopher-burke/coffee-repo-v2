@@ -23,3 +23,5 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [Losing your Loops Fast Numerical Computing with NumPy](https://www.youtube.com/watch?v=EEUXKG97YRw)
 * ["How to Begin Thinking like a Programmer" by Andy Harris](https://www.youtube.com/watch?v=YWwBhjQN-Qw)
 * ["Sebastian Witowski - Writing faster Python"](https://www.youtube.com/watch?v=YjHsOrOOSuI)
+* [Programming Loops vs Recursion - Computerphile](https://www.youtube.com/watch?v=HXNhEYqFo0o)
+* 
