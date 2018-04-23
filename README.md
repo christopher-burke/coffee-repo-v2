@@ -24,4 +24,7 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * ["How to Begin Thinking like a Programmer" by Andy Harris](https://www.youtube.com/watch?v=YWwBhjQN-Qw)
 * ["Sebastian Witowski - Writing faster Python"](https://www.youtube.com/watch?v=YjHsOrOOSuI)
 * [Programming Loops vs Recursion - Computerphile](https://www.youtube.com/watch?v=HXNhEYqFo0o)
+* [Solid Python Application Deployments For Everybody](https://www.youtube.com/watch?v=voq4Mm58NY0)
+* [Brandon Rhodes The Dictionary Even Mightier PyCon 2017](https://www.youtube.com/watch?v=66P5FMkWoVU)
+* [GOTO 2013 • Career Advice for Programmers • Trisha Gee](https://www.youtube.com/watch?v=LlAn452X4Lc)
 * 
