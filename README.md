@@ -28,3 +28,4 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [Brandon Rhodes The Dictionary Even Mightier PyCon 2017](https://www.youtube.com/watch?v=66P5FMkWoVU)
 * [GOTO 2013 • Career Advice for Programmers • Trisha Gee](https://www.youtube.com/watch?v=LlAn452X4Lc)
 * [Write Pythonic Code for Better Data Science (webcast)](https://www.youtube.com/watch?v=EihDgHxWiKk)
+* [ITT 2016 - Kevlin Henney - Seven Ineffective Coding Habits of Many Programmers](https://www.youtube.com/watch?v=ZsHMHukIlJY)
