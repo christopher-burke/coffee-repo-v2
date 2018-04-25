@@ -29,3 +29,6 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [GOTO 2013 • Career Advice for Programmers • Trisha Gee](https://www.youtube.com/watch?v=LlAn452X4Lc)
 * [Write Pythonic Code for Better Data Science (webcast)](https://www.youtube.com/watch?v=EihDgHxWiKk)
 * [ITT 2016 - Kevlin Henney - Seven Ineffective Coding Habits of Many Programmers](https://www.youtube.com/watch?v=ZsHMHukIlJY)
+* [Mastering Chaos - A Netflix Guide to Microservices](https://youtu.be/CZ3wIuvmHeM)
+* [Egyptian Maths](https://youtu.be/Ih1ZWE3pe9o)
+* [💡🐍 How to Remember Useful Code Snippets to Make Your Code More Pythonic?](https://youtu.be/ODqR37Jncc4)
