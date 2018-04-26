@@ -32,3 +32,5 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [Mastering Chaos - A Netflix Guide to Microservices](https://youtu.be/CZ3wIuvmHeM)
 * [Egyptian Maths](https://youtu.be/Ih1ZWE3pe9o)
 * [💡🐍 How to Remember Useful Code Snippets to Make Your Code More Pythonic?](https://youtu.be/ODqR37Jncc4)
+* [Mark Bates Explains 5 Steps to Get Better at Coding](https://www.youtube.com/watch?v=77kSLoOWxYg)
+* [JavaScript riddles for fun and profit - Dan Shappir](https://www.youtube.com/watch?v=D-juPGb7EKY)
