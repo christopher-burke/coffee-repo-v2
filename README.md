@@ -34,3 +34,7 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [💡🐍 How to Remember Useful Code Snippets to Make Your Code More Pythonic?](https://youtu.be/ODqR37Jncc4)
 * [Mark Bates Explains 5 Steps to Get Better at Coding](https://www.youtube.com/watch?v=77kSLoOWxYg)
 * [JavaScript riddles for fun and profit - Dan Shappir](https://www.youtube.com/watch?v=D-juPGb7EKY)
+* ["C" Programming Language: Brian Kernighan - Computerphile](https://www.youtube.com/watch?v=de2Hsvxaf8M)
+* [Why C is so Influential - Computerphile](https://www.youtube.com/watch?v=ci1PJexnfNE)
+* [Binary Numbers](https://www.youtube.com/watch?v=ry1hpm1GXVI)
+* [Algorithms: Binary Search](https://www.youtube.com/watch?v=P3YID7liBug)
