@@ -39,6 +39,6 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [Binary Numbers](https://www.youtube.com/watch?v=ry1hpm1GXVI)
 * [Algorithms: Binary Search](https://www.youtube.com/watch?v=P3YID7liBug)
 * [6 Things Your Junior Devs Don't Tell You](https://www.youtube.com/watch?v=m6G8f9pZZRM)
-* [Guido van Rossum: BDFL Python 3 retrospective](https://www.youtube.com/watch?v=Oiw23yfqQy8&t=3s&index=25&list=PLma6GxZFESfFSrov5MjsM1YCnA6m1AKGq)
+* [Guido van Rossum: BDFL Python 3 retrospective](https://www.youtube.com/watch?v=Oiw23yfqQy8)
 * [The Zen of Python | Audiobook](https://youtu.be/tEIpgTREexQ)
 * [The Most Difficult Program to Compute? - Computerphile](https://youtu.be/i7sm9dzFtEI)
