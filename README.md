@@ -19,3 +19,6 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [GOTO 2015 • To the Moon • Russ Olsen](https://youtu.be/l3XwpSKqNZw)
 * [SubTests are the Best](https://youtu.be/yrTdDmDazr0)
 * [Data Structures: Trees](https://youtu.be/oSWTXtMglKE)
+* [GOTO 2014 • Programming in Interesting Times • Russ Olsen](https://youtu.be/g3lnH4x7pHg)
+* [How NOT to Store Passwords! - Computerphile](https://youtu.be/8ZtInClXe1Q)
+* [GOTO 2015 • DevOps: Next • Nicole Forsgren](https://youtu.be/dMwGfRINpz0)
