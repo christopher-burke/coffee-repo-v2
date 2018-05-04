@@ -22,3 +22,5 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [GOTO 2014 • Programming in Interesting Times • Russ Olsen](https://youtu.be/g3lnH4x7pHg)
 * [How NOT to Store Passwords! - Computerphile](https://youtu.be/8ZtInClXe1Q)
 * [GOTO 2015 • DevOps: Next • Nicole Forsgren](https://youtu.be/dMwGfRINpz0)
+* [Representation - Jessica McKellar - Pycon Israel 2017](https://youtu.be/p6ZzJQUw6EY)
+* [Atari 2600 VCS Programming - Computerphile](https://youtu.be/fce39nQm9TY)
