@@ -24,3 +24,5 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [GOTO 2015 • DevOps: Next • Nicole Forsgren](https://youtu.be/dMwGfRINpz0)
 * [Representation - Jessica McKellar - Pycon Israel 2017](https://youtu.be/p6ZzJQUw6EY)
 * [Atari 2600 VCS Programming - Computerphile](https://youtu.be/fce39nQm9TY)
+* [Hacking Websites with SQL Injection - Computerphile](https://youtu.be/_jKylhJtPmI)
+* [Learning the Linux File System](https://youtu.be/HIXzJ3Rz9po)
