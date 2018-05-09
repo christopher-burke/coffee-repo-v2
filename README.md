@@ -27,3 +27,5 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [Hacking Websites with SQL Injection - Computerphile](https://youtu.be/_jKylhJtPmI)
 * [Learning the Linux File System](https://youtu.be/HIXzJ3Rz9po)
 * [Beauty in Code 2018 — Kevlin Henney — 1968](https://youtu.be/KjgvffBlWAg)
+* [The surprising beauty of mathematics | Jonathan Matte | TEDxGreensFarmsAcademy](https://youtu.be/SEiSloE1r-A)
+* [Faster than a calculator | Arthur Benjamin | TEDxOxford](https://youtu.be/e4PTvXtz4GM)
