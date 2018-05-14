@@ -31,3 +31,7 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [Faster than a calculator | Arthur Benjamin | TEDxOxford](https://youtu.be/e4PTvXtz4GM)
 * [The Perfect Code - Computerphile](https://youtu.be/WPoQfKQlOjg)
 * [Moishe Lettvin - What I Learned Doing 250 Interviews at Google](https://youtu.be/r8RxkpUvxK0)
+* [TEDxPortsmouth - Dr. Alan Watkins - Being Brilliant Every Single Day (Part 1)](https://youtu.be/q06YIWCR2Js)
+* [The Art of Stress-Free Productivity: David Allen at TEDxClaremontColleges](https://youtu.be/CHxhjDPKfbY)
+* [Programming as Performance: Live Coding with Sonic Pi - Sam Aaron](https://youtu.be/ENfyOndcvP0)
+* [Essence of calculus, chapter 1](https://youtu.be/WUvTyaaNkzM)
