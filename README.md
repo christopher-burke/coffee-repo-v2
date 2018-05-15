@@ -35,3 +35,5 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [The Art of Stress-Free Productivity: David Allen at TEDxClaremontColleges](https://youtu.be/CHxhjDPKfbY)
 * [Programming as Performance: Live Coding with Sonic Pi - Sam Aaron](https://youtu.be/ENfyOndcvP0)
 * [Essence of calculus, chapter 1](https://youtu.be/WUvTyaaNkzM)
+* [GOTO 2018 • Old Is the New New • Kevlin Henney](https://youtu.be/AbgsfeGvg3E)
+* [Lightning Talks - Thursday - PyCon 2018](https://youtu.be/fJj18KzomR0)
