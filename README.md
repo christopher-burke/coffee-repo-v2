@@ -37,3 +37,4 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [Essence of calculus, chapter 1](https://youtu.be/WUvTyaaNkzM)
 * [GOTO 2018 • Old Is the New New • Kevlin Henney](https://youtu.be/AbgsfeGvg3E)
 * [Lightning Talks - Thursday - PyCon 2018](https://youtu.be/fJj18KzomR0)
+* [This is Water](https://youtu.be/Sm95eZ1PZL0)
