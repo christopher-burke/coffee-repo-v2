@@ -38,3 +38,5 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [GOTO 2018 • Old Is the New New • Kevlin Henney](https://youtu.be/AbgsfeGvg3E)
 * [Lightning Talks - Thursday - PyCon 2018](https://youtu.be/fJj18KzomR0)
 * [This is Water](https://youtu.be/Sm95eZ1PZL0)
+* [37 Minutes with the Legendary Brian Kernighan](https://youtu.be/8CalKJ5-w-U)
+* [Using Python to build an AI to play and win SNES StreetFighter II - PyCon 2018](https://youtu.be/NyNUYYI-Pdg)
