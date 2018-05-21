@@ -40,3 +40,5 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [This is Water](https://youtu.be/Sm95eZ1PZL0)
 * [37 Minutes with the Legendary Brian Kernighan](https://youtu.be/8CalKJ5-w-U)
 * [Using Python to build an AI to play and win SNES StreetFighter II - PyCon 2018](https://youtu.be/NyNUYYI-Pdg)
+* [Miguel Grinberg - Oops! I Committed My Password To GitHub! - PyCon 2018](https://youtu.be/2uaTPmNvH0I)
+* [The Most Mysterious Object in the Universe](https://youtu.be/GHsQl-k3syg)
