@@ -42,3 +42,5 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [Using Python to build an AI to play and win SNES StreetFighter II - PyCon 2018](https://youtu.be/NyNUYYI-Pdg)
 * [Miguel Grinberg - Oops! I Committed My Password To GitHub! - PyCon 2018](https://youtu.be/2uaTPmNvH0I)
 * [The Most Mysterious Object in the Universe](https://youtu.be/GHsQl-k3syg)
+* [Performance Python: 7 Strategies for Optimizing Your Numerical Code](https://youtu.be/c5DV9Nur1W8)
+* [Pythonic Code, By Example](https://youtu.be/o0LohkA3UR4)
