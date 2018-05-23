@@ -44,3 +44,4 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [The Most Mysterious Object in the Universe](https://youtu.be/GHsQl-k3syg)
 * [Performance Python: 7 Strategies for Optimizing Your Numerical Code](https://youtu.be/c5DV9Nur1W8)
 * [Pythonic Code, By Example](https://youtu.be/o0LohkA3UR4)
+* [Nina Zakharenko - Elegant Solutions For Everyday Python Problems - PyCon 2018](https://youtu.be/WiQqqB9MlkA)
