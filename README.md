@@ -47,3 +47,5 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [Nina Zakharenko - Elegant Solutions For Everyday Python Problems - PyCon 2018](https://youtu.be/WiQqqB9MlkA)
 * [Jack Diederich - HOWTO Write a Function - PyCon 2018](https://youtu.be/rrBJVMyD-Gs)
 * [Is the world getting better or worse? A look at the numbers | Steven Pinker](https://youtu.be/yCm9Ng0bbEQ)
+* [Increase your self-awareness with one simple fix | Tasha Eurich | TEDxMileHigh](https://youtu.be/tGdsOXZpyWE)
+* [Martin Fowler – Microservices](https://youtu.be/2yko4TbC8cI)
