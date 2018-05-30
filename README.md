@@ -49,3 +49,5 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [Is the world getting better or worse? A look at the numbers | Steven Pinker](https://youtu.be/yCm9Ng0bbEQ)
 * [Increase your self-awareness with one simple fix | Tasha Eurich | TEDxMileHigh](https://youtu.be/tGdsOXZpyWE)
 * [Martin Fowler – Microservices](https://youtu.be/2yko4TbC8cI)
+* [There's more to life than being happy | Emily Esfahani Smith](https://youtu.be/y9Trdafp83U)
+* [The Art of Code | Zach Latta | TEDxYouth@Tallinn](https://youtu.be/GqgTwkTP6PM)
