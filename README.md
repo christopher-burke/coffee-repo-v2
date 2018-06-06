@@ -18,3 +18,4 @@ looking for a previous months picks? [check out the archives!](https://github.co
 
 * [Sonic Pi - Sam Aaron](https://youtu.be/UrfqA7ShYE0)
 * [UNIX: Working the Command Line in OS X](https://youtu.be/eSLFB5rxSco)
+* [GOTO 2018 • Deprecating Simplicity • Casey Rosenthal](https://youtu.be/DtRy79jIsS8)
