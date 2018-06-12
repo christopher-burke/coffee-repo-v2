@@ -20,3 +20,5 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [UNIX: Working the Command Line in OS X](https://youtu.be/eSLFB5rxSco)
 * [GOTO 2018 • Deprecating Simplicity • Casey Rosenthal](https://youtu.be/DtRy79jIsS8)
 * [How to Read a Book a Day | Jordan Harry | TEDxBathUniversity](https://youtu.be/e2-ahs905MQ)
+* [GOTO 2018 • Distributed Data Stores on Kubernetes • Alena Hall](https://youtu.be/SoaLsshJA8s)
+* [Reliable data transmission](https://youtu.be/eq5YpKHXJDM)
