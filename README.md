@@ -22,3 +22,6 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [How to Read a Book a Day | Jordan Harry | TEDxBathUniversity](https://youtu.be/e2-ahs905MQ)
 * [GOTO 2018 • Distributed Data Stores on Kubernetes • Alena Hall](https://youtu.be/SoaLsshJA8s)
 * [Reliable data transmission](https://youtu.be/eq5YpKHXJDM)
+* [46 Robert C Martin Clean Code III](https://youtu.be/QedpQjxBPMA)
+* [Kubernetes in 5 mins](https://youtu.be/PH-2FfFD2PU)
+* [Learn Docker in 12 Minutes 🐳](https://youtu.be/YFl2mCHdv24)
