@@ -25,3 +25,4 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [46 Robert C Martin Clean Code III](https://youtu.be/QedpQjxBPMA)
 * [Kubernetes in 5 mins](https://youtu.be/PH-2FfFD2PU)
 * [Learn Docker in 12 Minutes 🐳](https://youtu.be/YFl2mCHdv24)
+* [The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU](https://youtu.be/5MgBikgcWnY)
