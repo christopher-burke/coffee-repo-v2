@@ -26,3 +26,5 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [Kubernetes in 5 mins](https://youtu.be/PH-2FfFD2PU)
 * [Learn Docker in 12 Minutes 🐳](https://youtu.be/YFl2mCHdv24)
 * [The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU](https://youtu.be/5MgBikgcWnY)
+* [Top 10 Linux Job Interview Questions](https://youtu.be/l0QGLMwR-lY)
+* [10 Wifi Projects with Raspberry Pi - Andrew Naylor](https://youtu.be/swmJpbloOMs)
