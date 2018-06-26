@@ -29,3 +29,4 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [Top 10 Linux Job Interview Questions](https://youtu.be/l0QGLMwR-lY)
 * [10 Wifi Projects with Raspberry Pi - Andrew Naylor](https://youtu.be/swmJpbloOMs)
 * [Are You Smarter Than Your Technology? | Pat Scannell | TEDxAshburnSalon](https://youtu.be/xI4u3fn7HQs)
+* [Chris Schuhmacher - Coding through Adversity - PyCon 2018](https://youtu.be/dGz-K8x8k5k)
