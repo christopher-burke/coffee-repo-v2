@@ -30,3 +30,4 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [10 Wifi Projects with Raspberry Pi - Andrew Naylor](https://youtu.be/swmJpbloOMs)
 * [Are You Smarter Than Your Technology? | Pat Scannell | TEDxAshburnSalon](https://youtu.be/xI4u3fn7HQs)
 * [Chris Schuhmacher - Coding through Adversity - PyCon 2018](https://youtu.be/dGz-K8x8k5k)
+* [GOTO 2018 • Breaking Things on Purpose • Kolton Andrus](https://youtu.be/S89ox7oQn8s)
