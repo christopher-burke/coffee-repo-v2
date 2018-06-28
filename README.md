@@ -31,3 +31,5 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [Are You Smarter Than Your Technology? | Pat Scannell | TEDxAshburnSalon](https://youtu.be/xI4u3fn7HQs)
 * [Chris Schuhmacher - Coding through Adversity - PyCon 2018](https://youtu.be/dGz-K8x8k5k)
 * [GOTO 2018 • Breaking Things on Purpose • Kolton Andrus](https://youtu.be/S89ox7oQn8s)
+* [Why Does Time Exist at All? | Sean Carroll](https://youtu.be/tqn73A5Csi0)
+* [Python Cracking Unix User Passwords 01 - pwd](https://youtu.be/GnTDb0S0ip8)
