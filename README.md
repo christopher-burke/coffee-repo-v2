@@ -35,3 +35,4 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [Python Cracking Unix User Passwords 01 - pwd](https://youtu.be/GnTDb0S0ip8)
 * [10 Tips for Clean code](https://youtu.be/UjhX2sVf0eg)
 * [William Byrd on "The Most Beautiful Program Ever Written" [PWL NYC]](https://youtu.be/OyfBQmvr2Hc)
+* [Consciousness is a mathematical pattern: Max Tegmark at TEDxCambridge 2014](https://youtu.be/GzCvlFRISIM)
