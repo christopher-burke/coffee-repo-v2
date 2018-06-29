@@ -33,3 +33,5 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [GOTO 2018 • Breaking Things on Purpose • Kolton Andrus](https://youtu.be/S89ox7oQn8s)
 * [Why Does Time Exist at All? | Sean Carroll](https://youtu.be/tqn73A5Csi0)
 * [Python Cracking Unix User Passwords 01 - pwd](https://youtu.be/GnTDb0S0ip8)
+* [10 Tips for Clean code](https://youtu.be/UjhX2sVf0eg)
+* [William Byrd on "The Most Beautiful Program Ever Written" [PWL NYC]](https://youtu.be/OyfBQmvr2Hc)
