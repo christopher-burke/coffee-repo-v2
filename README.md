@@ -14,25 +14,7 @@ I want to learn and watch more things. I started watching videos with my coffee.
 
 looking for a previous months picks? [check out the archives!](https://github.com/christopher-burke/coffee-repo/tree/coffee-repo/archives/)
 
-### June 2018
+### July 2018
 
-* [Sonic Pi - Sam Aaron](https://youtu.be/UrfqA7ShYE0)
-* [UNIX: Working the Command Line in OS X](https://youtu.be/eSLFB5rxSco)
-* [GOTO 2018 • Deprecating Simplicity • Casey Rosenthal](https://youtu.be/DtRy79jIsS8)
-* [How to Read a Book a Day | Jordan Harry | TEDxBathUniversity](https://youtu.be/e2-ahs905MQ)
-* [GOTO 2018 • Distributed Data Stores on Kubernetes • Alena Hall](https://youtu.be/SoaLsshJA8s)
-* [Reliable data transmission](https://youtu.be/eq5YpKHXJDM)
-* [46 Robert C Martin Clean Code III](https://youtu.be/QedpQjxBPMA)
-* [Kubernetes in 5 mins](https://youtu.be/PH-2FfFD2PU)
-* [Learn Docker in 12 Minutes 🐳](https://youtu.be/YFl2mCHdv24)
-* [The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU](https://youtu.be/5MgBikgcWnY)
-* [Top 10 Linux Job Interview Questions](https://youtu.be/l0QGLMwR-lY)
-* [10 Wifi Projects with Raspberry Pi - Andrew Naylor](https://youtu.be/swmJpbloOMs)
-* [Are You Smarter Than Your Technology? | Pat Scannell | TEDxAshburnSalon](https://youtu.be/xI4u3fn7HQs)
-* [Chris Schuhmacher - Coding through Adversity - PyCon 2018](https://youtu.be/dGz-K8x8k5k)
-* [GOTO 2018 • Breaking Things on Purpose • Kolton Andrus](https://youtu.be/S89ox7oQn8s)
-* [Why Does Time Exist at All? | Sean Carroll](https://youtu.be/tqn73A5Csi0)
-* [Python Cracking Unix User Passwords 01 - pwd](https://youtu.be/GnTDb0S0ip8)
-* [10 Tips for Clean code](https://youtu.be/UjhX2sVf0eg)
-* [William Byrd on "The Most Beautiful Program Ever Written" [PWL NYC]](https://youtu.be/OyfBQmvr2Hc)
-* [Consciousness is a mathematical pattern: Max Tegmark at TEDxCambridge 2014](https://youtu.be/GzCvlFRISIM)
+* [Solving Pokemon Blue With a Single, Huge Regular Expression](https://youtu.be/Q2g9d29UIzk)
+* [The Super Mario Effect - Tricking Your Brain into Learning More | Mark Rober | TEDxPenn](https://youtu.be/9vJRopau0g0)
