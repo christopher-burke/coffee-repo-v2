@@ -18,3 +18,5 @@ looking for a previous months picks? [check out the archives!](https://github.co
 
 * [Solving Pokemon Blue With a Single, Huge Regular Expression](https://youtu.be/Q2g9d29UIzk)
 * [The Super Mario Effect - Tricking Your Brain into Learning More | Mark Rober | TEDxPenn](https://youtu.be/9vJRopau0g0)
+* [The Etymology of Programming - Brittany Storoz - JSConf EU 2018](https://youtu.be/2KTK2qD4-gs)
+* [NAME THAT SCRIPT!](https://youtu.be/PVDJL6fT14U)
