@@ -20,3 +20,6 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [The Super Mario Effect - Tricking Your Brain into Learning More | Mark Rober | TEDxPenn](https://youtu.be/9vJRopau0g0)
 * [The Etymology of Programming - Brittany Storoz - JSConf EU 2018](https://youtu.be/2KTK2qD4-gs)
 * [NAME THAT SCRIPT!](https://youtu.be/PVDJL6fT14U)
+* [Anna Wszeborowska - Processing music on the fly with Python](https://youtu.be/at2NppqIZok)
+* [The Original Double Slit Experiment](https://youtu.be/Iuv6hY6zsd0)
+* [HDF5 is Eating the World | SciPy 2015 | Andrew Collette](https://youtu.be/nddj5OA8LJo)
