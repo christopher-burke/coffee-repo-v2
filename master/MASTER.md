@@ -95,3 +95,4 @@
 * [HDF5 is Eating the World | SciPy 2015 | Andrew Collette](https://youtu.be/nddj5OA8LJo)
 * [Nicholas Tollervey - Mu - How to Make a Kids' Code Editor - PyCon 2018](https://youtu.be/T5IAf5vGGSk)
 * [What Computers Can't Do - with Kevin Buzzard](https://youtu.be/jQPb7DRMoZY)
+* [Impossible Programs (The Halting Problem)](https://youtu.be/wGLQiHXHWNk)
