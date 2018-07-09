@@ -23,3 +23,7 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [Anna Wszeborowska - Processing music on the fly with Python](https://youtu.be/at2NppqIZok)
 * [The Original Double Slit Experiment](https://youtu.be/Iuv6hY6zsd0)
 * [HDF5 is Eating the World | SciPy 2015 | Andrew Collette](https://youtu.be/nddj5OA8LJo)
+* [Nicholas Tollervey - Mu - How to Make a Kids' Code Editor - PyCon 2018](https://youtu.be/T5IAf5vGGSk)
+* [What Computers Can't Do - with Kevin Buzzard](https://youtu.be/jQPb7DRMoZY)
+* [Impossible Programs (The Halting Problem)
+](https://youtu.be/wGLQiHXHWNk)
