@@ -96,3 +96,8 @@
 * [Nicholas Tollervey - Mu - How to Make a Kids' Code Editor - PyCon 2018](https://youtu.be/T5IAf5vGGSk)
 * [What Computers Can't Do - with Kevin Buzzard](https://youtu.be/jQPb7DRMoZY)
 * [Impossible Programs (The Halting Problem)](https://youtu.be/wGLQiHXHWNk)
+* [Matt Davis - Python Performance Investigation by Example - PyCon 2018](https://youtu.be/yrRqNzJTBjk)
+* [Amy Nguyen - Using Chrome Developer Tools to hack your way into concerts - YouTube](https://youtu.be/tXssxJgIHbs)
+* [What Is Elegant Code? (aka Elegant Solutions For Everyday Python Problems) - YouTube](https://youtu.be/SlI9eOfxJJc)
+* [Docker?!? But I'm a SYSADMIN! - YouTube](https://youtu.be/s9nuPlukp8k)
+* [Python Quick Tip: F-Strings - How to Use Them and Advanced String Formatting - YouTube](https://youtu.be/nghuHvKLhJA)
