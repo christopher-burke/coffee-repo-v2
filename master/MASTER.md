@@ -101,3 +101,4 @@
 * [What Is Elegant Code? (aka Elegant Solutions For Everyday Python Problems) - YouTube](https://youtu.be/SlI9eOfxJJc)
 * [Docker?!? But I'm a SYSADMIN! - YouTube](https://youtu.be/s9nuPlukp8k)
 * [Python Quick Tip: F-Strings - How to Use Them and Advanced String Formatting - YouTube](https://youtu.be/nghuHvKLhJA)
+* [VS Code Can Do That?! VS Code Tips and Tricks - YouTube](https://youtu.be/x5GzCohd4eo)
