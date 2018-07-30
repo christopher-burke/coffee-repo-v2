@@ -102,3 +102,5 @@
 * [Docker?!? But I'm a SYSADMIN! - YouTube](https://youtu.be/s9nuPlukp8k)
 * [Python Quick Tip: F-Strings - How to Use Them and Advanced String Formatting - YouTube](https://youtu.be/nghuHvKLhJA)
 * [VS Code Can Do That?! VS Code Tips and Tricks - YouTube](https://youtu.be/x5GzCohd4eo)
+* [Questions No One Knows the Answers to (Full Version) - YouTube](https://youtu.be/7SWvDHvWXok)
+* [What You Weren’t Taught About Making Money | Sarah Potter | TEDxCollingwood - YouTube](https://youtu.be/SuFKONsatkc)
