@@ -104,3 +104,5 @@
 * [VS Code Can Do That?! VS Code Tips and Tricks - YouTube](https://youtu.be/x5GzCohd4eo)
 * [Questions No One Knows the Answers to (Full Version) - YouTube](https://youtu.be/7SWvDHvWXok)
 * [What You Weren’t Taught About Making Money | Sarah Potter | TEDxCollingwood - YouTube](https://youtu.be/SuFKONsatkc)
+* [Michio Kaku: The Universe in a Nutshell (Full Presentation) - YouTube](https://youtu.be/0NbBjNiw4tk)
+* [Quantum Fields: The Real Building Blocks of the Universe - with David Tong - YouTube](https://youtu.be/zNVQfWC_evg)
