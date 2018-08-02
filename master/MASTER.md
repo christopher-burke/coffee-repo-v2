@@ -106,3 +106,5 @@
 * [What You Weren’t Taught About Making Money | Sarah Potter | TEDxCollingwood - YouTube](https://youtu.be/SuFKONsatkc)
 * [Michio Kaku: The Universe in a Nutshell (Full Presentation) - YouTube](https://youtu.be/0NbBjNiw4tk)
 * [Quantum Fields: The Real Building Blocks of the Universe - with David Tong - YouTube](https://youtu.be/zNVQfWC_evg)
+* [Can you solve the counterfeit coin riddle? - Jennifer Lu - YouTube](https://youtu.be/tE2dZLDJSjA)
+* [How Close To The Sun Can Humanity Get? | Space Time - YouTube](https://youtu.be/cOzaGEAGzzA)
