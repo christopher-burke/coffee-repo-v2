@@ -108,3 +108,6 @@
 * [Quantum Fields: The Real Building Blocks of the Universe - with David Tong - YouTube](https://youtu.be/zNVQfWC_evg)
 * [Can you solve the counterfeit coin riddle? - Jennifer Lu - YouTube](https://youtu.be/tE2dZLDJSjA)
 * [How Close To The Sun Can Humanity Get? | Space Time - YouTube](https://youtu.be/cOzaGEAGzzA)
+* [Zero Equals One: Creating A Business From Nothing | Riley Csernica | TEDxCharleston - YouTube](https://youtu.be/CzJUCxwz8hk)
+* [The art of innovation | Guy Kawasaki | TEDxBerkeley - YouTube](https://youtu.be/Mtjatz9r-Vc)
+* [GOTO 2017 • Beyond Developer • Dan North - YouTube](https://youtu.be/wYEk0y8LYfg)
