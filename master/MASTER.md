@@ -111,3 +111,7 @@
 * [Zero Equals One: Creating A Business From Nothing | Riley Csernica | TEDxCharleston - YouTube](https://youtu.be/CzJUCxwz8hk)
 * [The art of innovation | Guy Kawasaki | TEDxBerkeley - YouTube](https://youtu.be/Mtjatz9r-Vc)
 * [GOTO 2017 • Beyond Developer • Dan North - YouTube](https://youtu.be/wYEk0y8LYfg)
+* [The Uncracked Problem with 33 - Numberphile - YouTube](https://youtu.be/wymmCdLdPvM)
+* [P vs. NP and the Computational Complexity Zoo - YouTube](https://youtu.be/YX40hbAHx3s)
+* [How to Install the Latest Python Version on Linux Mint, Debian and Ubuntu - YouTube](https://youtu.be/D_N2K2fTH2M)
+* [Mathematics is the sense you never knew you had | Eddie Woo | TEDxSydney - YouTube](https://youtu.be/PXwStduNw14)
