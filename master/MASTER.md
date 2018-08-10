@@ -115,3 +115,4 @@
 * [P vs. NP and the Computational Complexity Zoo - YouTube](https://youtu.be/YX40hbAHx3s)
 * [How to Install the Latest Python Version on Linux Mint, Debian and Ubuntu - YouTube](https://youtu.be/D_N2K2fTH2M)
 * [Mathematics is the sense you never knew you had | Eddie Woo | TEDxSydney - YouTube](https://youtu.be/PXwStduNw14)
+* [Lightning Talks - Saturday Evening - PyCon 2018 - YouTube](https://youtu.be/c-I0md_3fbQ)
