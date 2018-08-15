@@ -26,3 +26,5 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [How to Install the Latest Python Version on Linux Mint, Debian and Ubuntu - YouTube](https://youtu.be/D_N2K2fTH2M)
 * [Mathematics is the sense you never knew you had | Eddie Woo | TEDxSydney - YouTube](https://youtu.be/PXwStduNw14)
 * [Lightning Talks - Saturday Evening - PyCon 2018 - YouTube](https://youtu.be/c-I0md_3fbQ)
+* [How to take a picture of a black hole | Katie Bouman - YouTube](https://youtu.be/BIvezCVcsYs)
+* [David Baumgold - Get Started with Git - PyCon 2016 - YouTube](https://youtu.be/RrdECLvHW6g)
