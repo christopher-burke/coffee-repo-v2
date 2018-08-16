@@ -28,3 +28,5 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [Lightning Talks - Saturday Evening - PyCon 2018 - YouTube](https://youtu.be/c-I0md_3fbQ)
 * [How to take a picture of a black hole | Katie Bouman - YouTube](https://youtu.be/BIvezCVcsYs)
 * [David Baumgold - Get Started with Git - PyCon 2016 - YouTube](https://youtu.be/RrdECLvHW6g)
+* ["Non-Imperative Network Programming" by Mindy Preston - YouTube](https://youtu.be/GNc1t6Q5Dls)
+* [Python 101: Episode #18 - The sqlite module - YouTube](https://youtu.be/vXrRextJjfs)
