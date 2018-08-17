@@ -120,3 +120,4 @@
 * [David Baumgold - Get Started with Git - PyCon 2016 - YouTube](https://youtu.be/RrdECLvHW6g)
 * ["Non-Imperative Network Programming" by Mindy Preston - YouTube](https://youtu.be/GNc1t6Q5Dls)
 * [Python 101: Episode #18 - The sqlite module - YouTube](https://youtu.be/vXrRextJjfs)
+* [Asyncio - Asynchronous programming with coroutines - Intermediate Python Programming p.26 - YouTube](https://youtu.be/BI0asZuqFXM)
