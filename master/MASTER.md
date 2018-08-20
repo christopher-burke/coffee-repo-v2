@@ -121,3 +121,5 @@
 * ["Non-Imperative Network Programming" by Mindy Preston - YouTube](https://youtu.be/GNc1t6Q5Dls)
 * [Python 101: Episode #18 - The sqlite module - YouTube](https://youtu.be/vXrRextJjfs)
 * [Asyncio - Asynchronous programming with coroutines - Intermediate Python Programming p.26 - YouTube](https://youtu.be/BI0asZuqFXM)
+* [GOTO 2017 • Rethinking Leadership • Andrea Provaglio - YouTube](https://youtu.be/A04Pu5LlzHw)
+* [GOTO 2017 • How to take great Engineers & make them great Technical Leaders • Courtney Hemphill - YouTube](https://youtu.be/RtMmxqkPVug)
