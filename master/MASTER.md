@@ -123,3 +123,6 @@
 * [Asyncio - Asynchronous programming with coroutines - Intermediate Python Programming p.26 - YouTube](https://youtu.be/BI0asZuqFXM)
 * [GOTO 2017 • Rethinking Leadership • Andrea Provaglio - YouTube](https://youtu.be/A04Pu5LlzHw)
 * [GOTO 2017 • How to take great Engineers & make them great Technical Leaders • Courtney Hemphill - YouTube](https://youtu.be/RtMmxqkPVug)
+* [Lennart Regebro   Prehistoric Patterns in Python   PyCon 2017 - YouTube](https://youtu.be/V5-JH23Vk0I)
+* [Key Exchange - YouTube](https://youtu.be/U62S8SchxX4)
+* [Are You a SOLID Developer? - YouTube](https://youtu.be/K31POPssKyE)
