@@ -126,3 +126,5 @@
 * [Lennart Regebro   Prehistoric Patterns in Python   PyCon 2017 - YouTube](https://youtu.be/V5-JH23Vk0I)
 * [Key Exchange - YouTube](https://youtu.be/U62S8SchxX4)
 * [Are You a SOLID Developer? - YouTube](https://youtu.be/K31POPssKyE)
+* [That Time I Used Ruby To CRACK My Reddit PASSWORD - YouTube](https://youtu.be/rE6q2YsYfp8)
+* [GOTO 2016 • The Entity Microservice Trap You May Be Doing It Wrong • Fred George - YouTube](https://youtu.be/vs_XiP5Lkgg)
