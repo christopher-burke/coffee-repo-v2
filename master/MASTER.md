@@ -130,3 +130,6 @@
 * [GOTO 2016 • The Entity Microservice Trap You May Be Doing It Wrong • Fred George - YouTube](https://youtu.be/vs_XiP5Lkgg)
 * [Q: Why Do Keynote Speakers Keep Suggesting That Improving Security Is Possible? - YouTube](https://youtu.be/ajGX7odA87k)
 * [Intro To Web Scraping With Python - YouTube](https://youtu.be/4UcqECQe5Kc)
+* [GOTO 2016 • Why Technical Leadership Matters • Patrick Kua - YouTube](https://youtu.be/_6BKK1SPAVI)
+* [Life As A Developer: My Code Does Not Work Because I Am A Victim Of Complex Societal Factors... - YouTube](https://youtu.be/7Nj9ZjwOdFQ)
+* [Now is better than Never: What the Zen of Python can teach us about Data Ethics - YouTube](https://youtu.be/8mHMWQCCEdY)
