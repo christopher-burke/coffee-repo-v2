@@ -17,5 +17,5 @@ looking for a previous months picks? [check out the archives!](https://github.co
 ### September 2018
 
 * [Ned Batchelder - Facts and Myths about Python names and values - PyCon 2015 - YouTube](https://youtu.be/_AEJHKGk9ns)
-
-* [Web APIs You \[Probably\] Didn't Know Existed - YouTube](https://youtu.be/EZpdEljk5dY)
+* [Web APIs You &lbrack;Probably&rbrack; Didn't Know Existed - YouTube](https://youtu.be/EZpdEljk5dY)
+* [You're the tech lead! Now what? · Eryn O'Neil - YouTube](https://youtu.be/eFK2aJdRucc)
