@@ -136,3 +136,5 @@
 * [Ned Batchelder - Facts and Myths about Python names and values - PyCon 2015 - YouTube](https://youtu.be/_AEJHKGk9ns)
 * [Web APIs You &lbrack;Probably&rbrack; Didn't Know Existed - YouTube](https://youtu.be/EZpdEljk5dY)
 * [You're the tech lead! Now what? · Eryn O'Neil - YouTube](https://youtu.be/eFK2aJdRucc)
+* [Intro to Web Scraping with Python and Beautiful Soup - YouTube](https://youtu.be/XQgXKtPSzUI)
+* [Things I Was Unprepared For As A Lead Developer - YouTube](https://youtu.be/AwuqJ1qORag)
