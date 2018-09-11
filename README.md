@@ -21,3 +21,5 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [You're the tech lead! Now what? · Eryn O'Neil - YouTube](https://youtu.be/eFK2aJdRucc)
 * [Intro to Web Scraping with Python and Beautiful Soup - YouTube](https://youtu.be/XQgXKtPSzUI)
 * [Things I Was Unprepared For As A Lead Developer - YouTube](https://youtu.be/AwuqJ1qORag)
+* [GitHub Pull Requests for VS Code - YouTube](https://youtu.be/gf2sgH_0gd4)
+* [Practical Python Async for Dummies - YouTube](https://youtu.be/A6G57PHSIhQ)
