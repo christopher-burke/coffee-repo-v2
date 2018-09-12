@@ -140,3 +140,4 @@
 * [Things I Was Unprepared For As A Lead Developer - YouTube](https://youtu.be/AwuqJ1qORag)
 * [GitHub Pull Requests for VS Code - YouTube](https://youtu.be/gf2sgH_0gd4)
 * [Practical Python Async for Dummies - YouTube](https://youtu.be/A6G57PHSIhQ)
+* [The Programmer's Oath from Uncle Bob Martin - YouTube](https://youtu.be/2xSjD8PXjFg)
