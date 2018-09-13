@@ -24,3 +24,5 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [GitHub Pull Requests for VS Code - YouTube](https://youtu.be/gf2sgH_0gd4)
 * [Practical Python Async for Dummies - YouTube](https://youtu.be/A6G57PHSIhQ)
 * [The Programmer's Oath from Uncle Bob Martin - YouTube](https://youtu.be/2xSjD8PXjFg)
+* [Urllib - GET Requests || Python Tutorial || Learn Python Programming - YouTube](https://youtu.be/LosIGgon_KM)
+* [A Beginner's Guide to WebSockets - YouTube](https://youtu.be/FmaBZcQzL-Y)
