@@ -143,3 +143,6 @@
 * [The Programmer's Oath from Uncle Bob Martin - YouTube](https://youtu.be/2xSjD8PXjFg)
 * [Urllib - GET Requests || Python Tutorial || Learn Python Programming - YouTube](https://youtu.be/LosIGgon_KM)
 * [A Beginner's Guide to WebSockets - YouTube](https://youtu.be/FmaBZcQzL-Y)
+* [Mainframes and the Unix Revolution - Computerphile - YouTube](https://youtu.be/-rPPqm44xLs)
+* [Python with VSCode Tutorial : Getting Started - YouTube](https://youtu.be/D_NWNolN1tI)
+* [Rethinking the Developer Career Path – Randall Koutnik | The Lead Developer UK 2017 - YouTube](https://youtu.be/yIPbE7BssOs)
