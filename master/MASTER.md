@@ -146,3 +146,6 @@
 * [Mainframes and the Unix Revolution - Computerphile - YouTube](https://youtu.be/-rPPqm44xLs)
 * [Python with VSCode Tutorial : Getting Started - YouTube](https://youtu.be/D_NWNolN1tI)
 * [Rethinking the Developer Career Path – Randall Koutnik | The Lead Developer UK 2017 - YouTube](https://youtu.be/yIPbE7BssOs)
+* [REFACTORING TO IMMUTABILITY - YouTube](https://youtu.be/MSyYrCrIsIw)
+* [Crisis in the Foundation of Mathematics | Infinite Series - YouTube](https://youtu.be/KTUVdXI2vng)
+* [GOTO 2018 • Calendars for Humans - How to Undo the All-day Cram • Dominica DeGrandis - YouTube](https://youtu.be/ljIDSQZXFxM)
