@@ -155,3 +155,8 @@
 * [Let’s Build A CSS Game - YouTube](https://youtu.be/HkK7OdY8Z1E)
 * [10 Best Python Projects of 2018 - YouTube](https://youtu.be/G0rQ7AEl5LA)
 * [GOTO 2012 • Changing your Habits & Environment to get more Professional Productivity • Linda Rising - YouTube](https://youtu.be/mrHjHdyRDNY)
+* [GOTO 2015 • Impossible Programs • Tom Stuart - YouTube](https://youtu.be/hN63FOa_Gp4)
+* [How to Become a Millionaire in 3 Years | Daniel Ally | TEDxBergenCommunityCollege - YouTube](https://youtu.be/jvBaRf9LHDs)
+* [What they don't tell you about entrepreneurship | Mark Leruste | TEDxCardiff - YouTube](https://youtu.be/f6nxcfbDfZo)
+* [Why comfort will ruin your life | Bill Eckstrom | TEDxUniversityofNevada - YouTube](https://youtu.be/LBvHI1awWaI)
+* [Scott Hanselman, "Virtual Machines, JavaScript and Assembler" -  Fluent 2014 Keynote - YouTube](https://youtu.be/UzyoT4DziQ4)
