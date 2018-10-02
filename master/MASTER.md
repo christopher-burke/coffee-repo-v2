@@ -160,3 +160,4 @@
 * [What they don't tell you about entrepreneurship | Mark Leruste | TEDxCardiff - YouTube](https://youtu.be/f6nxcfbDfZo)
 * [Why comfort will ruin your life | Bill Eckstrom | TEDxUniversityofNevada - YouTube](https://youtu.be/LBvHI1awWaI)
 * [Scott Hanselman, "Virtual Machines, JavaScript and Assembler" -  Fluent 2014 Keynote - YouTube](https://youtu.be/UzyoT4DziQ4)
+* [GOTO 2015 • How did we end up here? • Todd Montgomery & Martin Thompson - YouTube](https://youtu.be/oxjT7veKi9c)
