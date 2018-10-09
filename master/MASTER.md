@@ -164,3 +164,5 @@
 * [GOTO 2015 • Applying the Saga Pattern • Caitie McCaffrey - YouTube](https://youtu.be/xDuwrtwYHu8)
 * [Learning React Native as a Junior Engineer - YouTube](https://youtu.be/Wwr9tr16q6w)
 * [Jake VanderPlas - Exploratory Data Visualization with Vega, Vega-Lite, and Altair - PyCon 2018 - YouTube](https://youtu.be/ms29ZPUKxbU)
+* [NGINX + https 101 The Basics & Getting Started - YouTube](https://youtu.be/dsTub1_4Upg)
+* [The Development Disaster behind macOS - YouTube](https://youtu.be/5fD5q_LShdY)
