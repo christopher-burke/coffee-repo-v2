@@ -166,3 +166,5 @@
 * [Jake VanderPlas - Exploratory Data Visualization with Vega, Vega-Lite, and Altair - PyCon 2018 - YouTube](https://youtu.be/ms29ZPUKxbU)
 * [NGINX + https 101 The Basics & Getting Started - YouTube](https://youtu.be/dsTub1_4Upg)
 * [The Development Disaster behind macOS - YouTube](https://youtu.be/5fD5q_LShdY)
+* [GOTO 2018 • Politics & Hierarchy: How We Create It & How to Stop • Katherine Kirk - YouTube](https://youtu.be/jQlVgh1B22g)
+* [Let's Hack A Serverless App (Right Now) - YouTube](https://youtu.be/RDwOZ6vQGKo)
