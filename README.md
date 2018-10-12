@@ -29,3 +29,6 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [The Development Disaster behind macOS - YouTube](https://youtu.be/5fD5q_LShdY)
 * [GOTO 2018 • Politics & Hierarchy: How We Create It & How to Stop • Katherine Kirk - YouTube](https://youtu.be/jQlVgh1B22g)
 * [Let's Hack A Serverless App (Right Now) - YouTube](https://youtu.be/RDwOZ6vQGKo)
+* [How to Read a Textbook  || Study Tips - YouTube](https://youtu.be/l0vfLGHoREU)
+* [How to Achieve Your Most Ambitious Goals | Stephen Duneier | TEDxTucson - YouTube](https://youtu.be/TQMbvJNRpLE)
+* [Python Tutorial: List Comprehensions Step-By-Step - YouTube](https://youtu.be/1HlyKKiGg-4)
