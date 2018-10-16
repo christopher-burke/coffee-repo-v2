@@ -32,3 +32,4 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [How to Read a Textbook  || Study Tips - YouTube](https://youtu.be/l0vfLGHoREU)
 * [How to Achieve Your Most Ambitious Goals | Stephen Duneier | TEDxTucson - YouTube](https://youtu.be/TQMbvJNRpLE)
 * [Python Tutorial: List Comprehensions Step-By-Step - YouTube](https://youtu.be/1HlyKKiGg-4)
+* [Pong in Python 3 for Beginners - Christian Thompson](https://www.youtube.com/playlist?list=PLlEgNdBJEO-kXk2PyBxhSmo84hsO3HAz2)
