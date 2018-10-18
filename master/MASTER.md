@@ -172,3 +172,8 @@
 * [How to Achieve Your Most Ambitious Goals | Stephen Duneier | TEDxTucson - YouTube](https://youtu.be/TQMbvJNRpLE)
 * [Python Tutorial: List Comprehensions Step-By-Step - YouTube](https://youtu.be/1HlyKKiGg-4)
 * [Pong in Python 3 for Beginners - Christian Thompson](https://www.youtube.com/playlist?list=PLlEgNdBJEO-kXk2PyBxhSmo84hsO3HAz2)
+* [Secrets Of Successful Teamwork: Insights From Google - YouTube](https://youtu.be/hHIikHJV9fI)
+* [Python 3 @ Facebook & Instagram - YouTube](https://youtu.be/QLnezwSU2kU)
+* [10 Core Guidelines You Need to Start Using Now - YouTube](https://youtu.be/RKQ7FDmyesE)
+* [Shannon Turner - You're an expert. Here's how to teach like one. - PyCon 2018 - YouTube](https://youtu.be/3m555yWTaNI)
+* [Kyle Knapp - Automating Code Quality - PyCon 2018 - YouTube](https://youtu.be/G1lDk_WKXvY)
