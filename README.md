@@ -38,3 +38,7 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [10 Core Guidelines You Need to Start Using Now - YouTube](https://youtu.be/RKQ7FDmyesE)
 * [Shannon Turner - You're an expert. Here's how to teach like one. - PyCon 2018 - YouTube](https://youtu.be/3m555yWTaNI)
 * [Kyle Knapp - Automating Code Quality - PyCon 2018 - YouTube](https://youtu.be/G1lDk_WKXvY)
+* [This is what happens when you reply to spam email | James Veitch - YouTube](https://youtu.be/_QdPW8JrYzQ)
+* [More adventures in replying to spam | James Veitch - YouTube](https://youtu.be/C4Uc-cztsJo)
+* [Web Scraping With NodeJS and Puppeteer - YouTube](https://youtu.be/ARt3zDHSsd4)
+* [GOTO 2015 • Level Up Your Automated Tests • Trisha Gee - YouTube](https://youtu.be/D-xra_X9Nwg)
