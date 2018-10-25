@@ -42,3 +42,4 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [More adventures in replying to spam | James Veitch - YouTube](https://youtu.be/C4Uc-cztsJo)
 * [Web Scraping With NodeJS and Puppeteer - YouTube](https://youtu.be/ARt3zDHSsd4)
 * [GOTO 2015 • Level Up Your Automated Tests • Trisha Gee - YouTube](https://youtu.be/D-xra_X9Nwg)
+* [Python Code Review: Refactoring a Web Scraper, PEP 8 Style Guide Compliance, requirements.txt - YouTube](https://youtu.be/sarl7bi50xw)
