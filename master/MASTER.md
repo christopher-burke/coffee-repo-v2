@@ -182,3 +182,7 @@
 * [Web Scraping With NodeJS and Puppeteer - YouTube](https://youtu.be/ARt3zDHSsd4)
 * [GOTO 2015 • Level Up Your Automated Tests • Trisha Gee - YouTube](https://youtu.be/D-xra_X9Nwg)
 * [Python Code Review: Refactoring a Web Scraper, PEP 8 Style Guide Compliance, requirements.txt - YouTube](https://youtu.be/sarl7bi50xw)
+* [Has The Age Of Quantum Computing Finally Arrived? - YouTube](https://youtu.be/KioLI5M4iBc)
+* [GOTO 2018 • Bash and All That; Why Ancient *NIX Tools Are Still Essential • Dean Wampler - YouTube](https://youtu.be/eHYIgid2a_E)
+* [GOTO 2018 • Full-stack Reactive Java with Project Reactor & Spring Boot 2 • Mark Heckler - YouTube](https://youtu.be/tSCyTUkVdoA)
+* [What is a Black Hole? -- Black Holes Explained - YouTube](https://youtu.be/EuC-yVzHhMI)
