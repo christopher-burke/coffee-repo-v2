@@ -186,3 +186,5 @@
 * [GOTO 2018 • Bash and All That; Why Ancient *NIX Tools Are Still Essential • Dean Wampler - YouTube](https://youtu.be/eHYIgid2a_E)
 * [GOTO 2018 • Full-stack Reactive Java with Project Reactor & Spring Boot 2 • Mark Heckler - YouTube](https://youtu.be/tSCyTUkVdoA)
 * [What is a Black Hole? -- Black Holes Explained - YouTube](https://youtu.be/EuC-yVzHhMI)
+* [Python Tutorial: Decorators - Dynamically Alter The Functionality Of Your Functions - YouTube](https://youtu.be/FsAPt_9Bf3U)
+* [A Pragmatic Maturity Model for Adopting Microservices - YouTube](https://youtu.be/jk6aMoNysWc)
