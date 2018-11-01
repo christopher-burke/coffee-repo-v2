@@ -188,3 +188,5 @@
 * [What is a Black Hole? -- Black Holes Explained - YouTube](https://youtu.be/EuC-yVzHhMI)
 * [Python Tutorial: Decorators - Dynamically Alter The Functionality Of Your Functions - YouTube](https://youtu.be/FsAPt_9Bf3U)
 * [A Pragmatic Maturity Model for Adopting Microservices - YouTube](https://youtu.be/jk6aMoNysWc)
+* [HTTP Headers For Web Performance and Security - YouTube](https://youtu.be/bDibI-dbZ8w)
+* [Alexandru Agachi - Introductory tutorial on data exploration and statistical models - YouTube](https://youtu.be/arhdVDsPLVI)
