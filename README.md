@@ -18,3 +18,7 @@ looking for a previous months picks? [check out the archives!](https://github.co
 
 * [HTTP Headers For Web Performance and Security - YouTube](https://youtu.be/bDibI-dbZ8w)
 * [Alexandru Agachi - Introductory tutorial on data exploration and statistical models - YouTube](https://youtu.be/arhdVDsPLVI)
+* [Expect the Expected (aka Writing Error Resilient Code) - YouTube](https://youtu.be/lvUngaI3fWQ)
+* [Why software engineers disagree about everything - talk by Haseeb Qureshi - YouTube](https://youtu.be/gxDa4xTvpo0)
+* [Python Oddities Explained](https://www.youtube.com/watch?v=NZyNOPbMSwQ)
+* [Writing Code like a Real Hacker (VS Code Macro Extension) - YouTube](https://youtu.be/rO8-cgtkZSw)
