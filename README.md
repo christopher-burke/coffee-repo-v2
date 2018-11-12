@@ -22,3 +22,5 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [Why software engineers disagree about everything - talk by Haseeb Qureshi - YouTube](https://youtu.be/gxDa4xTvpo0)
 * [Python Oddities Explained](https://www.youtube.com/watch?v=NZyNOPbMSwQ)
 * [Writing Code like a Real Hacker (VS Code Macro Extension) - YouTube](https://youtu.be/rO8-cgtkZSw)
+* [Build a DIY screen out of recycled parts for cheap - YouTube](https://youtu.be/CfirQC99xPc)
+* [Are Prime Numbers Made Up? | Infinite Series | PBS Digital Studios - YouTube](https://youtu.be/XnEqfTjp66A)
