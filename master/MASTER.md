@@ -196,3 +196,6 @@
 * [Writing Code like a Real Hacker (VS Code Macro Extension) - YouTube](https://youtu.be/rO8-cgtkZSw)
 * [Build a DIY screen out of recycled parts for cheap - YouTube](https://youtu.be/CfirQC99xPc)
 * [Are Prime Numbers Made Up? | Infinite Series | PBS Digital Studios - YouTube](https://youtu.be/XnEqfTjp66A)
+* [Python Variables | Python Variables & Data Types | Python Tutorial | Python Programming |Simplilearn - YouTube](https://youtu.be/syH5OneJb-U)
+* [Building Your Own Data Science Platform With Python & Docker - YouTube](https://youtu.be/NC2wXYHBrL0)
+* [GOTO 2012 • Introduction to NoSQL • Martin Fowler - YouTube](https://youtu.be/qI_g07C_Q5I)
