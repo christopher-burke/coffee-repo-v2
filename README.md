@@ -28,3 +28,4 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [Building Your Own Data Science Platform With Python & Docker - YouTube](https://youtu.be/NC2wXYHBrL0)
 * [GOTO 2012 • Introduction to NoSQL • Martin Fowler - YouTube](https://youtu.be/qI_g07C_Q5I)
 * [You're Not as Smart as You Think You Are - YouTube](https://youtu.be/rtyYBi7h3nc)
+* [Creating, building, testing, and documenting a Python project - a hands-on HOWTO - PyCon 2016 - YouTube](https://youtu.be/SUt3wT43AeM)
