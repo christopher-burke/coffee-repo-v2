@@ -29,3 +29,4 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [GOTO 2012 • Introduction to NoSQL • Martin Fowler - YouTube](https://youtu.be/qI_g07C_Q5I)
 * [You're Not as Smart as You Think You Are - YouTube](https://youtu.be/rtyYBi7h3nc)
 * [Creating, building, testing, and documenting a Python project - a hands-on HOWTO - PyCon 2016 - YouTube](https://youtu.be/SUt3wT43AeM)
+* [PEP 20 Presentation - Zen of Python - YouTube](https://youtu.be/PHSAVai7yx4)
