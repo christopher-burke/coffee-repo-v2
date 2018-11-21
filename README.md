@@ -1,15 +1,31 @@
-# breakfast repo
-> a collection of videos, recordings, and podcasts to accompany our morning coffee
+# Coffee Repo #
 
-there are so many cool things to learn and watch and i never seem to have the time for all of them. in an attempt to consume more of these things, i've started watching at least 1 ~20min thing every morning with my coffee.
+* Forked from [breakfast-repo](https://github.com/ashleygwilliams/breakfast-repo)
 
-### have a suggestion?
+> a collection of videos, recordings, and podcasts to accompany our morning coffee.
 
-if you have something you think i would like to or should listen/watch, please [file an issue](https://github.com/ashleygwilliams/breakfast-repo/issues/new) with the link and a small description. thanks!
+I want to learn and watch more things. I started watching videos with my coffee.
 
-looking for a previous months picks? [check out the archives!](https://github.com/ashleygwilliams/breakfast-repo/tree/master/archives) 
+### Suggestion ?
 
-### june 2016
+[file an pull request](https://github.com/christopher-burke/coffee-repo/pulls) with the link.
 
-- [Jeanine Adkisson: Tulip: A Well-Balanced Language (MoonConf 2016)](https://www.youtube.com/watch?v=WWlnRWbOlho&feature=youtu.be&a)
-- [Isaac Schlueter: Non-Violent Communication for Fun, Profit, and Self Defense (Open Source & Feelings 2015)](https://www.youtube.com/watch?v=G5_8u3NA8M8)
+### Archives
+
+looking for a previous months picks? [check out the archives!](https://github.com/christopher-burke/coffee-repo/tree/coffee-repo/archives/)
+
+### November 2018
+
+* [HTTP Headers For Web Performance and Security - YouTube](https://youtu.be/bDibI-dbZ8w)
+* [Alexandru Agachi - Introductory tutorial on data exploration and statistical models - YouTube](https://youtu.be/arhdVDsPLVI)
+* [Expect the Expected (aka Writing Error Resilient Code) - YouTube](https://youtu.be/lvUngaI3fWQ)
+* [Why software engineers disagree about everything - talk by Haseeb Qureshi - YouTube](https://youtu.be/gxDa4xTvpo0)
+* [Python Oddities Explained](https://www.youtube.com/watch?v=NZyNOPbMSwQ)
+* [Writing Code like a Real Hacker (VS Code Macro Extension) - YouTube](https://youtu.be/rO8-cgtkZSw)
+* [Build a DIY screen out of recycled parts for cheap - YouTube](https://youtu.be/CfirQC99xPc)
+* [Are Prime Numbers Made Up? | Infinite Series | PBS Digital Studios - YouTube](https://youtu.be/XnEqfTjp66A)
+* [Python Variables | Python Variables & Data Types | Python Tutorial | Python Programming |Simplilearn - YouTube](https://youtu.be/syH5OneJb-U)
+* [Building Your Own Data Science Platform With Python & Docker - YouTube](https://youtu.be/NC2wXYHBrL0)
+* [GOTO 2012 • Introduction to NoSQL • Martin Fowler - YouTube](https://youtu.be/qI_g07C_Q5I)
+* [You're Not as Smart as You Think You Are - YouTube](https://youtu.be/rtyYBi7h3nc)
+* [Creating, building, testing, and documenting a Python project - a hands-on HOWTO - PyCon 2016 - YouTube](https://youtu.be/SUt3wT43AeM)
