@@ -30,3 +30,5 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [You're Not as Smart as You Think You Are - YouTube](https://youtu.be/rtyYBi7h3nc)
 * [Creating, building, testing, and documenting a Python project - a hands-on HOWTO - PyCon 2016 - YouTube](https://youtu.be/SUt3wT43AeM)
 * [PEP 20 Presentation - Zen of Python - YouTube](https://youtu.be/PHSAVai7yx4)
+* [TEDxMaastricht - Simon Sinek - "First why and then trust" - YouTube](https://youtu.be/4VdO7LuoBzM)
+* [Simon Sinek's Life Advice Will Change Your Future (MUST WATCH) - YouTube](https://youtu.be/ENIwAZZw8J0)
