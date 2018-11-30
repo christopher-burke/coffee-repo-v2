@@ -32,3 +32,5 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [PEP 20 Presentation - Zen of Python - YouTube](https://youtu.be/PHSAVai7yx4)
 * [TEDxMaastricht - Simon Sinek - "First why and then trust" - YouTube](https://youtu.be/4VdO7LuoBzM)
 * [Simon Sinek's Life Advice Will Change Your Future (MUST WATCH) - YouTube](https://youtu.be/ENIwAZZw8J0)
+* [Uncle Bob Martin - The Craftsman's Oath - SCLConf 2018 - YouTube](https://youtu.be/17vTLSkXTOo)
+* [Guido Van Rossum - Keynote 05 - PyCon 2014 - YouTube](https://youtu.be/0Ef9GudbxXY)
