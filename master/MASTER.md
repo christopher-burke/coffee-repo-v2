@@ -206,3 +206,5 @@
 * [Simon Sinek's Life Advice Will Change Your Future (MUST WATCH) - YouTube](https://youtu.be/ENIwAZZw8J0)
 * [Uncle Bob Martin - The Craftsman's Oath - SCLConf 2018 - YouTube](https://youtu.be/17vTLSkXTOo)
 * [Guido Van Rossum - Keynote 05 - PyCon 2014 - YouTube](https://youtu.be/0Ef9GudbxXY)
+* [Insertion Sort - YouTube](https://youtu.be/O0VbBkUvriI)
+* [The Complete History of Linux (Abridged) - Live at Linux Fest NW 2018 - YouTube](https://youtu.be/UjDQtNYxtbU)
