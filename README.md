@@ -18,3 +18,4 @@ looking for a previous months picks? [check out the archives!](https://github.co
 
 * [Insertion Sort - YouTube](https://youtu.be/O0VbBkUvriI)
 * [The Complete History of Linux (Abridged) - Live at Linux Fest NW 2018 - YouTube](https://youtu.be/UjDQtNYxtbU)
+* [Architecting Web Apps - YouTube](https://youtu.be/UdpTC_pg_uA)
