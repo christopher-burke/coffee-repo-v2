@@ -21,3 +21,6 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [Architecting Web Apps - YouTube](https://youtu.be/UdpTC_pg_uA)
 * [Binary Search - YouTube](https://youtu.be/T98PIp4omUA)
 * [Recursion - YouTube](https://youtu.be/mz6tAJMVmfM)
+* [CS50 Week 0 - YouTube](https://youtu.be/zFenJJtAEzE)
+* [Kadane's Algorithm to Maximum Sum Subarray Problem - YouTube](https://youtu.be/86CQq3pKSUw)
+* [Oops! OOP Is Not What I Thought - YouTube](https://youtu.be/91gxLyc9nXU)
