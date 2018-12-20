@@ -26,3 +26,4 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [Oops! OOP Is Not What I Thought - YouTube](https://youtu.be/91gxLyc9nXU)
 * [James Kirk Cropcho - Asynchronous Python A Gentle Introduction - YouTube](https://youtu.be/e4mP4Prf0gc)
 * [Get to grips with asyncio in Python 3 - Robert Smallshire from NDC Conferences on Vimeo](https://player.vimeo.com/video/209464518)
+* [Python Django Tutorial: Deploying Your Application (Option #1) - Deploy to a Linux Server - YouTube](https://youtu.be/Sa_kQheCnds)
