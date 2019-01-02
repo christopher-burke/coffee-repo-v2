@@ -14,16 +14,8 @@ I want to learn and watch more things. I started watching videos with my coffee.
 
 looking for a previous months picks? [check out the archives!](https://github.com/christopher-burke/coffee-repo/tree/coffee-repo/archives/)
 
-### December 2018
+### January 2019
 
-* [Insertion Sort - YouTube](https://youtu.be/O0VbBkUvriI)
-* [The Complete History of Linux (Abridged) - Live at Linux Fest NW 2018 - YouTube](https://youtu.be/UjDQtNYxtbU)
-* [Architecting Web Apps - YouTube](https://youtu.be/UdpTC_pg_uA)
-* [Binary Search - YouTube](https://youtu.be/T98PIp4omUA)
-* [Recursion - YouTube](https://youtu.be/mz6tAJMVmfM)
-* [CS50 Week 0 - YouTube](https://youtu.be/zFenJJtAEzE)
-* [Kadane's Algorithm to Maximum Sum Subarray Problem - YouTube](https://youtu.be/86CQq3pKSUw)
-* [Oops! OOP Is Not What I Thought - YouTube](https://youtu.be/91gxLyc9nXU)
-* [James Kirk Cropcho - Asynchronous Python A Gentle Introduction - YouTube](https://youtu.be/e4mP4Prf0gc)
-* [Get to grips with asyncio in Python 3 - Robert Smallshire from NDC Conferences on Vimeo](https://player.vimeo.com/video/209464518)
-* [Python Django Tutorial: Deploying Your Application (Option #1) - Deploy to a Linux Server - YouTube](https://youtu.be/Sa_kQheCnds)
+* [PyData Tel Aviv Meetup: Diving into Pandas is faster than reinventing it - Dean Langsam - YouTube](https://youtu.be/vDuvD4y0WFc)
+* [The Power of Mindfulness: What You Practice Grows Stronger | Shauna Shapiro | TEDxWashingtonSquare - YouTube](https://youtu.be/IeblJdB2-Vo)
+* [Why we're unhappy -- the expectation gap | Nat Ware | TEDxKlagenfurt - YouTube](https://youtu.be/9KiUq8i9pbE)
