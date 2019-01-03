@@ -19,3 +19,5 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [PyData Tel Aviv Meetup: Diving into Pandas is faster than reinventing it - Dean Langsam - YouTube](https://youtu.be/vDuvD4y0WFc)
 * [The Power of Mindfulness: What You Practice Grows Stronger | Shauna Shapiro | TEDxWashingtonSquare - YouTube](https://youtu.be/IeblJdB2-Vo)
 * [Why we're unhappy -- the expectation gap | Nat Ware | TEDxKlagenfurt - YouTube](https://youtu.be/9KiUq8i9pbE)
+* [You Don't Need That: Design Patterns and Python - YouTube](https://youtu.be/rAZBK7jE7b8)
+* [How to practice effectively...for just about anything - Annie Bosler and Don Greene - YouTube](https://youtu.be/f2O6mQkFiiw)
