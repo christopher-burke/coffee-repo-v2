@@ -222,3 +222,6 @@
 * [Why we're unhappy -- the expectation gap | Nat Ware | TEDxKlagenfurt - YouTube](https://youtu.be/9KiUq8i9pbE)
 * [You Don't Need That: Design Patterns and Python - YouTube](https://youtu.be/rAZBK7jE7b8)
 * [How to practice effectively...for just about anything - Annie Bosler and Don Greene - YouTube](https://youtu.be/f2O6mQkFiiw)
+* [Engineering Systems for Real-Time Predictions @DoorDash - YouTube](https://youtu.be/sEZsIUBIhNk)
+* [Why do we ask questions? Michael "Vsauce" Stevens at TEDxVienna - YouTube](https://youtu.be/u9hauSrihYQ)
+* [REST API With Flask & SQL Alchemy - YouTube](https://youtu.be/PTZiDnuC86g)
