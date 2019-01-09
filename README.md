@@ -24,3 +24,6 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [Engineering Systems for Real-Time Predictions @DoorDash - YouTube](https://youtu.be/sEZsIUBIhNk)
 * [Why do we ask questions? Michael "Vsauce" Stevens at TEDxVienna - YouTube](https://youtu.be/u9hauSrihYQ)
 * [REST API With Flask & SQL Alchemy - YouTube](https://youtu.be/PTZiDnuC86g)
+* [Not Everyone Should Code - YouTube](https://youtu.be/EFwa5Owp0-k)
+* [Python3 Advanced Tutorial 5 - MultiThreading - YouTube](https://youtu.be/6eqC1WTlIqc)
+* [Pycon UK 2016: Python and the Glories of the UNIX Tradition - YouTube](https://youtu.be/zFMdhXYlFfY)
