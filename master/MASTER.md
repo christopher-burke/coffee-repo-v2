@@ -228,3 +228,5 @@
 * [Not Everyone Should Code - YouTube](https://youtu.be/EFwa5Owp0-k)
 * [Python3 Advanced Tutorial 5 - MultiThreading - YouTube](https://youtu.be/6eqC1WTlIqc)
 * [Pycon UK 2016: Python and the Glories of the UNIX Tradition - YouTube](https://youtu.be/zFMdhXYlFfY)
+* [After watching this, your brain will not be the same | Lara Boyd | TEDxVancouver - YouTube](https://youtu.be/LNHBMFCzznE)
+* [Using Chaos to Build Resilient Systems - YouTube](https://youtu.be/Mz3cXPV42Ks)
