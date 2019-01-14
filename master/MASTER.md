@@ -230,3 +230,6 @@
 * [Pycon UK 2016: Python and the Glories of the UNIX Tradition - YouTube](https://youtu.be/zFMdhXYlFfY)
 * [After watching this, your brain will not be the same | Lara Boyd | TEDxVancouver - YouTube](https://youtu.be/LNHBMFCzznE)
 * [Using Chaos to Build Resilient Systems - YouTube](https://youtu.be/Mz3cXPV42Ks)
+* [PhD: How to write a great research paper - YouTube](https://youtu.be/1AYxMbYZQ1Y)
+* [How To Come Up With Good Ideas | Mark Rober | TEDxYouth@ColumbiaSC - YouTube](https://youtu.be/L1kbrlZRDvU)
+* [3 Ways To Advance Your Programming Skills - YouTube](https://youtu.be/cYSfWzRnJek)
