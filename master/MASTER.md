@@ -233,3 +233,8 @@
 * [PhD: How to write a great research paper - YouTube](https://youtu.be/1AYxMbYZQ1Y)
 * [How To Come Up With Good Ideas | Mark Rober | TEDxYouth@ColumbiaSC - YouTube](https://youtu.be/L1kbrlZRDvU)
 * [3 Ways To Advance Your Programming Skills - YouTube](https://youtu.be/cYSfWzRnJek)
+* [Tetiana Ivanova - How to become a Data Scientist in 6 months a hacker’s approach to career planning - YouTube](https://youtu.be/rIofV14c0tc)
+* [MIT AI: Python (Guido van Rossum) - YouTube](https://youtu.be/ghwaIiE3Nd8)
+* [MIT AGI: Building machines that see, learn, and think like people (Josh Tenenbaum) - YouTube](https://youtu.be/7ROelYvo8f0)
+* [Headers for Hackers: Wrangling HTTP Like a Pro - YouTube](https://youtu.be/TNlcoYLIGFk)
+* [Python Tutorial: Itertools Module - Iterator Functions for Efficient Looping - YouTube](https://youtu.be/Qu3dThVy6KQ)
