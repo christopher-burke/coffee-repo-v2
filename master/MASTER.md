@@ -246,3 +246,6 @@
 * [The rarest commodity is leadership without ego: Bob Davids at TEDxESCP - YouTube](https://youtu.be/UQrPVmcgJJk)
 * [Stop Managing, Start Leading | Hamza Khan | TEDxRyersonU - YouTube](https://youtu.be/d_HHnEROy_w)
 * [Learn JSON - Full Crash Course for Beginners - YouTube](https://youtu.be/GpOO5iKzOmY)
+* [The history of our world in 18 minutes | David Christian - YouTube](https://youtu.be/yqc9zX04DXs)
+* [Math is the hidden secret to understanding the world | Roger Antonsen - YouTube](https://youtu.be/ZQElzjCsl9o)
+* [How ELECTRICITY works - working principle - YouTube](https://youtu.be/mc979OhitAg)
