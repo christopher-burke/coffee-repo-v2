@@ -18,3 +18,5 @@ looking for a previous months picks? [check out the archives!](https://github.co
 
 * [Choosing Your JavaScript Framework - YouTube](https://youtu.be/_P2fGeg9I5o)
 * [Authentication and Authorization With Flask-Login - YouTube](https://youtu.be/K0vSCCAM2ss)
+* [console.log(brain) - YouTube](https://youtu.be/Wnv6uFp_m7U)
+* [Own your mistakes | Cristel Carrisi | TEDxZagreb - YouTube](https://youtu.be/Xmvpx1kIEBQ)
