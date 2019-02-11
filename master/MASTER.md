@@ -253,3 +253,5 @@
 * [Authentication and Authorization With Flask-Login - YouTube](https://youtu.be/K0vSCCAM2ss)
 * [console.log(brain) - YouTube](https://youtu.be/Wnv6uFp_m7U)
 * [Own your mistakes | Cristel Carrisi | TEDxZagreb - YouTube](https://youtu.be/Xmvpx1kIEBQ)
+* [10 Best Visual Studio Code Extensions - YouTube](https://youtu.be/XU57YBbSueM)
+* [Writing Viruses for Fun, not Profit - YouTube](https://youtu.be/ID1jJpul0mI)
