@@ -255,3 +255,6 @@
 * [Own your mistakes | Cristel Carrisi | TEDxZagreb - YouTube](https://youtu.be/Xmvpx1kIEBQ)
 * [10 Best Visual Studio Code Extensions - YouTube](https://youtu.be/XU57YBbSueM)
 * [Writing Viruses for Fun, not Profit - YouTube](https://youtu.be/ID1jJpul0mI)
+* [How to Talk to Anyone with Ease and Confidence - YouTube](https://youtu.be/PMmnPpjtU7c)
+* [10 Must Install Visual Studio Code Extensions - YouTube](https://youtu.be/bJN1P07_lLo)
+* [Fail, Learn, Fix - YouTube](https://youtu.be/7M3hItcO3Yc)
