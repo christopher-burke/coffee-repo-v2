@@ -258,3 +258,6 @@
 * [How to Talk to Anyone with Ease and Confidence - YouTube](https://youtu.be/PMmnPpjtU7c)
 * [10 Must Install Visual Studio Code Extensions - YouTube](https://youtu.be/bJN1P07_lLo)
 * [Fail, Learn, Fix - YouTube](https://youtu.be/7M3hItcO3Yc)
+* [Beautiful Soup Tutorial - Web Scraping in Python - YouTube](https://youtu.be/87Gx3U0BDlo)
+* [How Laptops Are Made in Factories | How It's Made - YouTube](https://youtu.be/O9vO_CVNXlg)
+* [Python and Pygame Tutorial - Build Tetris! Full GameDev Course - YouTube](https://youtu.be/zfvxp7PgQ6c)
