@@ -28,3 +28,5 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [Beautiful Soup Tutorial - Web Scraping in Python - YouTube](https://youtu.be/87Gx3U0BDlo)
 * [How Laptops Are Made in Factories | How It's Made - YouTube](https://youtu.be/O9vO_CVNXlg)
 * [Python and Pygame Tutorial - Build Tetris! Full GameDev Course - YouTube](https://youtu.be/zfvxp7PgQ6c)
+* [Programming as Performance | Sam Aaron | TEDxNewcastle - YouTube](https://youtu.be/TK1mBqKvIyU)
+* [Create A Twitter Bot With Python - YouTube](https://youtu.be/8u-zJVVVhT4)
