@@ -263,3 +263,4 @@
 * [Python and Pygame Tutorial - Build Tetris! Full GameDev Course - YouTube](https://youtu.be/zfvxp7PgQ6c)
 * [Programming as Performance | Sam Aaron | TEDxNewcastle - YouTube](https://youtu.be/TK1mBqKvIyU)
 * [Create A Twitter Bot With Python - YouTube](https://youtu.be/8u-zJVVVhT4)
+* [Hacking Web Performance - YouTube](https://youtu.be/UgSFxtIPc4c)
