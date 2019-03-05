@@ -264,3 +264,4 @@
 * [Programming as Performance | Sam Aaron | TEDxNewcastle - YouTube](https://youtu.be/TK1mBqKvIyU)
 * [Create A Twitter Bot With Python - YouTube](https://youtu.be/8u-zJVVVhT4)
 * [Hacking Web Performance - YouTube](https://youtu.be/UgSFxtIPc4c)
+* [Python Tutorial: Write a Script to Monitor a Website, Send Alert Emails, and Reboot Servers - YouTube](https://youtu.be/yqm6MBt-yfY)
