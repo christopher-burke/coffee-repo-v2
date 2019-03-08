@@ -17,3 +17,6 @@ looking for a previous months picks? [check out the archives!](https://github.co
 ### March 2019
 
 * [Python Tutorial: Write a Script to Monitor a Website, Send Alert Emails, and Reboot Servers - YouTube](https://youtu.be/yqm6MBt-yfY)
+* [Classical Management Theory - YouTube](https://youtu.be/d1jOwD-CTLI)
+* [9 Tips to be a Better Leader - Leadership and Management Skills and Qualities - YouTube](https://youtu.be/B0w-ASaOb94)
+* [Vanessa Van Edwards: "Captivate: The Science of Succeeding with People" | Talks at Google - YouTube](https://youtu.be/0MtsXbTJdt8)

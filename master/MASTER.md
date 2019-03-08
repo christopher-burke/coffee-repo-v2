@@ -265,3 +265,6 @@
 * [Create A Twitter Bot With Python - YouTube](https://youtu.be/8u-zJVVVhT4)
 * [Hacking Web Performance - YouTube](https://youtu.be/UgSFxtIPc4c)
 * [Python Tutorial: Write a Script to Monitor a Website, Send Alert Emails, and Reboot Servers - YouTube](https://youtu.be/yqm6MBt-yfY)
+* [Classical Management Theory - YouTube](https://youtu.be/d1jOwD-CTLI)
+* [9 Tips to be a Better Leader - Leadership and Management Skills and Qualities - YouTube](https://youtu.be/B0w-ASaOb94)
+* [Vanessa Van Edwards: "Captivate: The Science of Succeeding with People" | Talks at Google - YouTube](https://youtu.be/0MtsXbTJdt8)
