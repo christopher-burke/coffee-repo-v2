@@ -20,3 +20,6 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [Classical Management Theory - YouTube](https://youtu.be/d1jOwD-CTLI)
 * [9 Tips to be a Better Leader - Leadership and Management Skills and Qualities - YouTube](https://youtu.be/B0w-ASaOb94)
 * [Vanessa Van Edwards: "Captivate: The Science of Succeeding with People" | Talks at Google - YouTube](https://youtu.be/0MtsXbTJdt8)
+* [2 tips for developing good management skills | London Business School - YouTube](https://youtu.be/lLcgCEbsT08)
+* [The Perfect Boss: Dr. Axel Zein at TEDxStuttgart - YouTube](https://youtu.be/jFG7jqJXbno)
+* [What do all great leaders have have in common | Matt Beeton | TEDxOxbridge - YouTube](https://youtu.be/KgmKNKM0i1g)
