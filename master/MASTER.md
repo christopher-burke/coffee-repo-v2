@@ -271,3 +271,5 @@
 * [2 tips for developing good management skills | London Business School - YouTube](https://youtu.be/lLcgCEbsT08)
 * [The Perfect Boss: Dr. Axel Zein at TEDxStuttgart - YouTube](https://youtu.be/jFG7jqJXbno)
 * [What do all great leaders have have in common | Matt Beeton | TEDxOxbridge - YouTube](https://youtu.be/KgmKNKM0i1g)
+* [5 Things to Do When You Have Too Many Ideas and Never Finish Anything - YouTube](https://youtu.be/clDUHSsYs6o)
+* [Great leadership comes down to only two rules | Peter Anderton | TEDxDerby - YouTube](https://youtu.be/oDsMlmfLjd4)
