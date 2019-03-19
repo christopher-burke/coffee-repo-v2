@@ -273,3 +273,5 @@
 * [What do all great leaders have have in common | Matt Beeton | TEDxOxbridge - YouTube](https://youtu.be/KgmKNKM0i1g)
 * [5 Things to Do When You Have Too Many Ideas and Never Finish Anything - YouTube](https://youtu.be/clDUHSsYs6o)
 * [Great leadership comes down to only two rules | Peter Anderton | TEDxDerby - YouTube](https://youtu.be/oDsMlmfLjd4)
+* [Kelly McGonigal: "The Willpower Instinct" | Talks at Google - YouTube](https://youtu.be/V5BXuZL1HAg)
+* [Master & Minions or the Dream of Python Automation - YouTube](https://youtu.be/rsSnWuBEro8)
