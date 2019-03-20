@@ -27,3 +27,5 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [Great leadership comes down to only two rules | Peter Anderton | TEDxDerby - YouTube](https://youtu.be/oDsMlmfLjd4)
 * [Kelly McGonigal: "The Willpower Instinct" | Talks at Google - YouTube](https://youtu.be/V5BXuZL1HAg)
 * [Master & Minions or the Dream of Python Automation - YouTube](https://youtu.be/rsSnWuBEro8)
+* [Stop Wasting Energy On These 3 Undeniable Energy Wasters - YouTube](https://youtu.be/x-PhXOLW1X8)
+* [CHM Live | The History (and the Future) of Software - YouTube](https://youtu.be/OdI7Ukf-Bf4)
