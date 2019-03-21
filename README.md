@@ -29,3 +29,5 @@ looking for a previous months picks? [check out the archives!](https://github.co
 * [Master & Minions or the Dream of Python Automation - YouTube](https://youtu.be/rsSnWuBEro8)
 * [Stop Wasting Energy On These 3 Undeniable Energy Wasters - YouTube](https://youtu.be/x-PhXOLW1X8)
 * [CHM Live | The History (and the Future) of Software - YouTube](https://youtu.be/OdI7Ukf-Bf4)
+* [The Art of Writing Software - YouTube](https://youtu.be/QdVFvsCWXrA)
+* [Quantum Computer in a Nutshell (Documentary) - YouTube](https://youtu.be/0dXNmbiGPS4)
