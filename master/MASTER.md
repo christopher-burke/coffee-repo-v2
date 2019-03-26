@@ -280,3 +280,7 @@
 * [The Art of Writing Software - YouTube](https://youtu.be/QdVFvsCWXrA)
 * [Quantum Computer in a Nutshell (Documentary) - YouTube](https://youtu.be/0dXNmbiGPS4)
 * [Simplicity Is Not Simple - YouTube](https://youtu.be/9hohuqj-yI8)
+* [Sev Leonard: Can you please pass the data? IoT communication with MicroPython - YouTube](https://youtu.be/qCvgOhrl1Rs)
+* [A Beginner's Guide to WebSockets - YouTube](https://youtu.be/FmaBZcQzL-Y)
+* [10 Python Tips and Tricks For Writing Better Code - YouTube](https://youtu.be/C-gEQdGVXbk)
+* [How to Deliver Constructive Feedback in Difficult Situations - Dave Bailey - medium.dave-bailey.com](https://medium.dave-bailey.com/the-essential-guide-to-difficult-conversations-41f736e63ccf)
