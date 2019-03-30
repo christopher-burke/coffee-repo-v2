@@ -286,3 +286,5 @@
 * [How to Deliver Constructive Feedback in Difficult Situations - Dave Bailey - medium.dave-bailey.com](https://medium.dave-bailey.com/the-essential-guide-to-difficult-conversations-41f736e63ccf)
 * [Why Contribute to Open Source? - Julia Meinweld (Two Sigma Investments) - YouTube](https://youtu.be/pTpcUr3tesw)
 * [VS Code: The First Second - YouTube](https://youtu.be/XgDus4lPmR8)
+* [Russell's Paradox - A Ripple in the Foundations of Mathematics - YouTube](https://youtu.be/xauCQpnbNAM)
+* [Become an Excel Wizard With Python - YouTube](https://youtu.be/q6Mc_sAPZ2Y)
