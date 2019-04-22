@@ -289,3 +289,5 @@
 * [Russell's Paradox - A Ripple in the Foundations of Mathematics - YouTube](https://youtu.be/xauCQpnbNAM)
 * [Become an Excel Wizard With Python - YouTube](https://youtu.be/q6Mc_sAPZ2Y)
 * [Best Practices With Documenting and Refactoring Python Code - YouTube](https://youtu.be/S8P_pJrw9uk)
+* [Daily Consistency = Massive Results: THE COMPOUND EFFECT by Darren Hardy | Core Message - YouTube](https://youtu.be/qDxDCtZ9UkE)
+* [Chris Voss 4 21 17 - YouTube](https://youtu.be/yPsvgmZlVuQ)

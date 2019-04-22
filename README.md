@@ -17,3 +17,5 @@ looking for a previous months picks? [check out the archives!](https://github.co
 ### April 2019
 
 * [Best Practices With Documenting and Refactoring Python Code - YouTube](https://youtu.be/S8P_pJrw9uk)
+* [Daily Consistency = Massive Results: THE COMPOUND EFFECT by Darren Hardy | Core Message - YouTube](https://youtu.be/qDxDCtZ9UkE)
+* [Chris Voss 4 21 17 - YouTube](https://youtu.be/yPsvgmZlVuQ)
