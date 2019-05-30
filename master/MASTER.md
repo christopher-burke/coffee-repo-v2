@@ -291,3 +291,7 @@
 * [Best Practices With Documenting and Refactoring Python Code - YouTube](https://youtu.be/S8P_pJrw9uk)
 * [Daily Consistency = Massive Results: THE COMPOUND EFFECT by Darren Hardy | Core Message - YouTube](https://youtu.be/qDxDCtZ9UkE)
 * [Chris Voss 4 21 17 - YouTube](https://youtu.be/yPsvgmZlVuQ)
+* [Dan Taylor - Get Productive with Python in Visual Studio Code - YouTube](https://youtu.be/6YLMWU-5H9o)
+* [Will YouTube Ever Run Out Of Video IDs? - YouTube](https://youtu.be/gocwRvLhDf8)
+* [Michio Kaku on The Future of Humanity (Google I/O'19) - YouTube](https://youtu.be/zsnc0vkwWRk)
+* [Python Steering Council - Keynote - PyCon 2019 - YouTube](https://youtu.be/8dDp-UHBJ_A)
