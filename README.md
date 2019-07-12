@@ -14,7 +14,7 @@ I want to learn and watch more things. I started watching videos with my coffee.
 
 looking for a previous months picks? [check out the archives!](https://github.com/christopher-burke/coffee-repo/tree/coffee-repo/archives/)
 
-### JULY 2019
+### July 2019
 
 * [The Future of Programming - .NET Oxford - April 2019 - YouTube](https://youtu.be/BHnMItX2hEQ)
 * [15 Sorting Algorithms in 6 Minutes - YouTube](https://youtu.be/kPRA0W1kECg)

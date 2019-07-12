@@ -295,3 +295,7 @@
 * [Will YouTube Ever Run Out Of Video IDs? - YouTube](https://youtu.be/gocwRvLhDf8)
 * [Michio Kaku on The Future of Humanity (Google I/O'19) - YouTube](https://youtu.be/zsnc0vkwWRk)
 * [Python Steering Council - Keynote - PyCon 2019 - YouTube](https://youtu.be/8dDp-UHBJ_A)
+* [The Future of Programming - .NET Oxford - April 2019 - YouTube](https://youtu.be/BHnMItX2hEQ)
+* [15 Sorting Algorithms in 6 Minutes - YouTube](https://youtu.be/kPRA0W1kECg)
+* [The magic of Fibonacci numbers | Arthur Benjamin - YouTube](https://youtu.be/SjSHVDfXHQ4)
+* [A Beginner's Guide to WebSockets - YouTube](https://youtu.be/PjiXkJ6P9pQ)
